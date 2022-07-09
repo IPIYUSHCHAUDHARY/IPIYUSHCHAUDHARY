@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Piyush Chaudhary. I'm from India.
 - 👀 I’m interested in Frontend Web Development & UI Development.
-- 🌱 I’m currently learning UI with JS, jQuery & React.
+- 🌱 I’m currently learning UI with JS & React.
 - 📫 For any queries/collaborations:-  ipiyushchaudhary@gmail.com
 - 🖥️ check out my site:- --NA--
 <!---
